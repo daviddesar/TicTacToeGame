@@ -2,7 +2,7 @@
 My mini project while I'm studying Python.
 
 ### Introduction:
-I created this project while studying a Python course on Udemy [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/). This is my first milestone project with Python. I wrote this game by breaking it down into parts with separate functions, then I matched them in the `game on` part (the final part that gather all those previous functions).  
+I created this project while studying a Python course on Udemy [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/). This is my first milestone project with Python. I wrote this game by breaking it down into parts with separate functions, then I matched them in the `game on` part (the final part that gathers all those previous functions).  
 Check out [my demo here](https://repl.it/@QuanHoang2/GraveTurquoiseChapters-2).
 
 ### How to play:
