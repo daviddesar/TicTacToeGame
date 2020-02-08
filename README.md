@@ -1,4 +1,4 @@
-# TicTacToeGame
+# Tic Tac Toe Game
 My mini project while I'm studying Python.
 
 ### Introduction:
